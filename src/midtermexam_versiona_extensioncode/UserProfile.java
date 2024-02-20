@@ -13,6 +13,7 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+//I added these comments for the fetch+merge
 public class UserProfile 
 {
     
